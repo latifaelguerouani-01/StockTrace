@@ -1,0 +1,508 @@
+Source,Code à barre,Référence,Quantité,Affectation,Types,Marque,Remarques,TAG
+DB Electrique,3389110982510, ATS48C66Q,1.0,Centre,Démarreur,Schneider,Altistart 48  230-415V 660A,
+DB Electrique,3606481089168,ATS480C66Y,1.0,Centre,Démarreur,Schneider,Altivar SoftStarter 208-690V 660A,
+DB Electrique,3606480796036,ATV630C11N4,1.0,Centre,Variateur ,Schneider,Altivar Process 380-480V 110KW ( rq manque ventulateur model THB1748BG),
+DB Electrique,3606480796050,ATV630C16N4,0.0,Centre,Variateur ,Schneider,Altivar Process 380-480V 160KW,
+DB Electrique,3606480701450,ATV630D75N4,1.0,Centre,Variateur ,Schneider,Altivar Process 380-480V 75KW,
+DB Electrique,3389110982275,ATS48D62Q,2.0,A1,Démarreur,Schneider,Altistart 48  230-415V 62A,
+DB Electrique,3389110982312,ATS48D88Q,1.0,A1,Démarreur,Schneider,Altistart 48  230-415V 88A,
+DB Electrique,3389110982299,ATS48D75Q,1.0,A1,Démarreur ,Schneider,Altistart 48  230-415V 75A ,
+DB Electrique,3606481089038,ATS480D47Y,1.0,A2,Démarreur,Schneider,Altivar SoftStarter 208-690V 47A,
+DB Electrique,3389110982251,ATS48D47Q,1.0,A2,Démarreur,Schneider,Altistart 48  230-415V 47A,
+DB Electrique,,ATS480D62Y,1.0,A2,Démarreur,Schneider,SoftStarter 208-690V 62A,
+DB Electrique,7320500255506,PST30-600-70,2.0,A3,Démarreur,ABB,SoftStarter 100-250V 30A,
+DB Electrique,7320500255551,PST72-600-70,2.0,A3,Démarreur,ABB,SoftStarter 100-250V 72A,
+DB Electrique,3606480966712,ATV320U04N4C,2.0,A4,Variateur,Schneider,"Altivar Machine 380-500V 0,37KW",
+DB Electrique,3606480931291,ATV320U55N4B,1.0,A4,Variateur,Schneider,"Altivar Machine 380-500V 5,5KW",
+DB Electrique,3606480758102,ATV630U15N4,1.0,A4,Variateur ,Schneider,"Altivar Process 380-480V 1,5KW",
+DB Electrique,3389110982435,ATS48C32Q,1.0,B1,Démarreur,Schneider,Altistart 48  230-415V 320A,
+DB Electrique,3606481089069,ATS480D88Y,5.0,B2/C2,Variateur,Schneider,Altivar SoftStarter 208-690V 88A,
+DB Electrique,3606480167225,ATS22D75Q,3.0,B3,Démarreur,Schneider,Altistart 22  230-440V 75A,
+DB Electrique,3606480966750,ATV320U15N4C,4.0,B4,Variateur,Schneider,"Altivar Machine 380-500V 1,5KW",
+DB Electrique,3606480700569,ATV610D15N4,1.0,B4,Variateur,Schneider,Altivar 610 380-460V 15KW,
+DB Electrique,3606480700583,ATV610D22N4,1.0,B4,Variateur,Schneider,Altivar 610 380-460V 22KW,
+DB Electrique,3389110982411,ATS48C25Q,3.0,C1-D1,Démarreur,Schneider,Altistart 48  230-415V 250A,
+DB Electrique,3606481089052,ATS480D75Y,8.0,B5-C5-D5,Variateur,Schneider,Altivar SoftStarter 208-690V 75A,
+DB Electrique,3606481089014,ATS480D32Y,2.0,C3,Démarreur,Schneider,Altivar SoftStarter 208-690V 32A,
+DB Electrique,3606480701405,ATV630D22N4,2.0,C4,Variateur,Schneider,Altivar Process 380-480V 22KW,
+DB Electrique,3389110982350,ATS48C14Q,1.0,D1,Démarreur,Schneider,Altistart 48  230-415V 140A,
+DB Electrique,,ATS480C14Y,4.0,A5-B5,Démarreur,Schneider,Altivar SoftStarter 208-690V 140A,
+DB Electrique,,ATS480D38Y,3.0,D2,Démarreur,Schneider,Altistart SoftStarter 208-690V 38A,
+DB Electrique,3606480701399,ATV630D18N4,1.0,D3,Variateur,Schneider,"Altivar Process 380-480V 18,5KW",
+DB Electrique,820919213762,Powerflex70,1.0,D3,Variateur,Allen Bradley,"Powerflex70 5,5KW",
+DB Electrique,3606480701382,ATV630D15N4,2.0,D4,Variateur ,Schneider,Altivar Process 380-480V 15KW,
+DB Electrique,,EXT120,2.0,F1,Ventilateur ,Stromelec,Ventilateur métallique 12cm 220V,
+DB Electrique,,R2E190AO2605,2.0,F1,Ventilateur ,Ebmpapst,Ventilateur en plastique 19cm 220V ,
+DB Electrique,,WK25489HBL2,3.0,F1,Ventilateur ,Wiikool,Ventilateur métallique 25cm 220V 72W,
+DB Electrique,,THB1748BG,4.0,F1,Ventilateur ,BRUSHLESS,Ventilateur métallique DC48V 5.8A pour variateur ,
+DB Electrique,8B233980703,BMXCPS3500,2.0,F2,API,Schneider,Modicon power supply  pour M340 M580,
+DB Electrique,3606485439976,BMEH582040,2.0,F2,API,Schneider,Modicon Module de processeur redondant M580 HSBY Level 2 For R IO,
+DB Electrique,3595864174037,BMEXBP0400,2.0,F2,API,Schneider,Modicon Rack a 4 Slots Ethernet pour M580,
+DB Electrique,3606481029584,MCSESU083F2CU0,3.0,F2,API,Schneider,Modicon Swich ethernet TCP/IP 6TX/2FX-MM,
+DB Electrique,3606480880667,490NAC0100,2.0,F2,API,Schneider,Modicon M580 HSPY RJ45 SFP / Connecteur pour processeur ,
+DB Electrique,3606480713903,BMENOC0301,4.0,F2,API,Schneider,Modicon M580 Ethernet Comm Module ,
+DB Electrique,3389110747638,TSXAEY800,2.0,F3,API,Schneider,,
+DB Electrique,3389110717402,TSXDSY16D2,2.0,F3,API,Schneider,,
+DB Electrique,3389110725834,TSXDSY16R5,2.0,F3,API,Schneider,,
+DB Electrique,3389110725582,TSXDSY64T2K,1.0,F3,API,Schneider,,
+DB Electrique,3389110725667,,,F3,API,Schneider,Rack API,
+DB Electrique,3595863843453,,,F4,API,Schneider,Carte d'entrées numériques,
+DB Electrique,3595863932980,TSXRKY6,1.0,F4,API,Schneider,Carte d'entrées numériques,
+DB Electrique,3595863843460,STBDDI3725,0.0,F4,API,Schneider,Carte de sortie numérique ,
+DB Electrique,3595863933000,STBDDI3725KC,1.0,F4,API,Schneider,Carte de sortie numérique ,
+DB Electrique,3595863949162,STBDDO3705,6.0,F4,API,Schneider,,
+DB Electrique,3595863987812,STBNIC2212,6.0,F4,API,Schneider,,
+DB Electrique,3595862055116,STBNIP2212,7.0,F4,API,Schneider,Module de communication ,
+DB Electrique,3595863765960,STBXBA2300,2.0,F5,API,Schneider,,
+DB Electrique,3389110876345,TSXAEY810,6.0,F5,API,Schneider,,
+DB Electrique,3389110748031,TSXASY410,6.0,F5,API,Schneider,,
+DB Electrique,3389110725537,TSXDEY64D2K,6.0,F5,API,Schneider,,
+DB Electrique,3595863767650,TSXETY4103,18.0,F5,API,Schneider,Module de communication Ethernet API,
+DB Electrique,3595863914634,STBP573623AM,2.0,F6,API,Schneider,,
+DB Electrique,3595863921243,TSXH5724M,1.0,F6,API,Schneider,Processeur UNY HSBY akhfnir,
+DB Electrique,3595863921250,TSXH5744M,3.0,F6,API,Schneider,Processeur UNY HSBY Tr6/7/8,
+DB Electrique,3389110725605,TSXPY2600M,8.0,F6,API,Schneider,Alimentation API,
+DB Electrique,3389110874600,TSXSCY21601,4.0,F6,API,Schneider,,
+DB Electrique,3595863914634,TSXP573623AM,2.0,F6,API,Schneider,Processeur PL7 TR5,
+DB Electrique,, BASELINE 01ALV,6.0,G2,,,,
+DB Electrique,,BL02ALV,5.0,G2,,,,
+DB Electrique,,BL09DRV,6.0,G2,,,,
+DB Electrique,,JK0030A1,12.0,G2,,,,
+DB Electrique,,JK2001,4.0,G2,,,,
+DB Electrique,3389119404242,RXZE2M114,76.0,G2,,,,
+DB Electrique,3389119404259,RXZE2M114M,26.0,G2,,,,
+DB Electrique,,TELIS 9200U1,2.0,G2,,,,
+DB Electrique,3389110644463,ABE7 CPA02,7.0,G3,,,,
+DB Electrique,3389110544947,ABE7 H16R11,4.0,G3,,,,
+DB Electrique,3389110544954,ABE7 H16R20,2.0,G3,,,,
+DB Electrique,3389110644678,ABE7 R16T230,5.0,G3,,,,
+DB Electrique,3389110706611,TSX BLY 01,1.0,G3,,,,
+DB Electrique,3595863948400,STBACI1400K,10.0,G4,API,,Carte d'entrées analogiques,
+DB Electrique,3595863948790,STBACO1225K,8.0,G4,API,,Carte de sorties analogiques ,
+DB Electrique,3595863949223,STBCPS2111K,12.0,G4,API,,Module d'alimentation du bus logique ,
+DB Electrique,3595863949216,STBPDT3100K,15.0,G4,API,,Module d'alimentation de bus de terrain ,
+DB Electrique,3595863949254,STBXBE1100K,3.0,G4,,,,
+DB Electrique,3595863949247,STBXBE1300K,6.0,G4,,,,
+DB Electrique,3595863949230,STBXBE2100K,9.0,G4,API,,Module d'extension CANOpen,
+DB Electrique,3595863910711,BMXP342020,1.0,G5,API,,Modicon M340 - processeur - 1024 E/S TOR 256 E/S ANA - 1Modbus - 1Ethernet,
+DB Electrique,3595863992175,BMXXBE1000,4.0,G5,API,,Modicon - module d'extension durci pour rack durci M340/M580,
+DB Electrique,3595863996357,TM2AMI8HT,3.0,G5,,,,
+DB Electrique,3595863996128,TM2AMO1HT,2.0,G5,,,,
+DB Electrique,3595863995749,TM2DDI32DK,2.0,G5,,,,
+DB Electrique,3595863995923,TM2DDO32TK,2.0,G5,,,,
+DB Electrique,3595862022194,TSXCANTDM4,3.0,G5,,,,
+DB Electrique,3595863874938,TSXETG100,7.0,G5,,,,
+DB Electrique,3595862048330,499NES18100,3.0,G6,,,,
+DB Electrique,3595863823448,499NMS25102,2.0,G6,,,,
+DB Electrique,TAGCB1138377,EDS-208,3.0,G6,,,,
+DB Electrique,3595863823790,OTB1E0DM9LP,8.0,G6,,,,
+DB Electrique,3595864065519,TCSESU083FN0,1.0,G6,,,,
+DB Electrique,,81007-465-51-R,0.0,J5,VarMT,Allen Bradley,"VarMT Voltage Sensing Board ( carte détecteur de tension 5,5kv)",
+DB Electrique,,80190-560-01-R,1.0,H3,VarMT,Allen Bradley,VarMT / Carte ACB,
+DB Electrique,,80190-580-01-R,2.0,H3,VarMT,Allen Bradley,VarMT / Carte DBM,
+DB Electrique,,80026-044-06-R,2.0,H4,VarMT,Allen Bradley,VarMT Alimentation IGCT / alimentation á découpage (20vcc),
+DB Electrique,,80025-549-01-R,4.0,I2,VarMT,Allen Bradley,VarMT cable fibre optique  5m,
+DB Electrique,,80025-549-02-R,4.0,I2,VarMT,Allen Bradley,VarMT cable fibre optique  6m,
+DB Electrique,,80025-523-10-R,6.0,I2,VarMT,Allen Bradley,"VarMT condensateur d'amortissement 0,1uF",
+DB Electrique,,80190-600-01-R,4.0,I3,VarMT,Allen Bradley,VarMT Optical Interface Base Brd / nbr 4 in 1,
+DB Electrique,,80006-314-01,2.0,I3,VarMT,Allen Bradley,VarMT Contacteur inteligeant 1503VC-BMC5,
+DB Electrique,,80026-518-01-R,4.0,I4,VarMT,Allen Bradley,VarMT / Alimentation MOX720-P4668E ( alim. excitation ),
+DB Electrique,,80026-230-01,2.0,I4,VarMT,Allen Bradley,VarMT / Bobine ,
+DB Electrique,,80026-453-03,1.0,I4,VarMT,Allen Bradley,VarMT SHIPPER MODULE / Ensemble de résistance de puissance ,
+DB Electrique,,80168-073-01,2.0,I5,VarMT,DALLAS,VarMT Mini batterie DS9034PCX Pour Allen-Bradley,
+DB Electrique,,80168-073-02,8.0,I5,VarMT,DALLAS,VarMT Mini batterie DS9034PC Pour Allen-Bradley ,
+DB Electrique,,825-P,3.0,I5,VarMT,Allen Bradley,VarMT / Relais de protection ,
+DB Electrique,,80153-567-01,2.0,I5,VarMT,,VarMT,
+DB Electrique,,80026-053-02,8.0,J2,VarMT,Allen Bradley,VarMT Duplex Fibre optique cable 6m,
+DB Electrique,,80026-053-04,8.0,J2,VarMT,Allen Bradley,VarMT Duplex Fibre optique cable 5m,
+DB Electrique,,80026-053-05,8.0,J2,VarMT,Allen Bradley,"VarMT Duplex Fibre optique cable 5,5m",
+DB Electrique,,80026-053-06,8.0,J2,VarMT,Allen Bradley,"VarMT Duplex Fibre optique cable 6,5m",
+DB Electrique,,80026-053-07,4.0,J2,VarMT,Allen Bradley,VarMT Duplex Fibre optique cable 7m,
+DB Electrique,,80173-111-01,0.0,J3,VarMT,Allen Bradley,VarMT Carte thyristore \ Gate Commutated Thyristor Gy-D04 Board,
+DB Electrique,,80026-520-01R,9.0,J4,VarMT,Allen Bradley,VarMT Alimentation variateur ( alum. Onduleur et alum. Commande) 56vcc,
+DB Electrique,,80190-100-01-R,7.0,J4,VarMT,Allen Bradley,VarMT Optical Interface Board PN-271938,
+DB Electrique,,80190-300-01-R,2.0,J4,VarMT,Allen Bradley,VarMT Carte d'entré sortie / External I/O PCB circuit Board,
+DB Electrique,,81000-199-51-R,2.0,J5,VarMT,Allen Bradley,"VarMT Carte de rétroaction de tension ( carte détecteur de tension 5,5kv)",
+DB Electrique,,80190-540-05-R,0.0,,VarMT,Allen Bradley,,
+DB Electrique,,80190-800-01-R,8.0,,VarMT,Allen Bradley,VarMT Carte d'alimentation IGCT redresseur (Tr8 20vcc),
+DB Electrique,3389110351620,LC1 F265M7,5.0,K2-L2,Contacteur,Schneider,3p 440V 265A,
+DB Electrique,3389110460070,LC1 F225M7,4.0,K1,Contacteur,Schneider,,
+DB Electrique,3389119218504,VW3A3310D,3.0,A4,P Recharge VAR,Schneider,Altivar Carte Daisy Chain,
+DB Electrique,3606480612978,VW3A3320,3.0,A4,P Recharge VAR,Schneider,Altivar Carte Ethernet RSTP IP,
+DB Electrique,3389110982923,VW3G48101,5.0,A4,P Recharge VAR,Schneider,Altistar 48 Console déportée,
+DB Electrique,3389118069305,VW3A1101,2.0,A4,P Recharge VAR,Schneider,Altivar Terminal graphique déportable,
+DB Electrique,3389118069312,VW3A1102,2.0,A4,P Recharge VAR,Schneider,Altivar Kit de déport terminal graphique ,
+DB Electrique,3389118069329,VW3A1103,1.0,A4,P Recharge VAR,Schneider,Altivar Porte IP65 pour kit de déport,
+DB Electrique,3389110122459,LC1 F265,1.0,L2,Contacteur,Schneider,,
+DB Electrique,3389110351484,LC1 F185E7,4.0,L3,Contacteur,Schneider,,
+DB Electrique,3389110460254,LC1 F330M7,4.0,L3-M3,Contacteur,Schneider,,
+DB Electrique,3389110440423,LC1 D80E5,3.0,L4,Contacteur,Schneider,,
+DB Electrique,3389110440522,LC1 D80E7,1.0,L4,Contacteur,Schneider,,
+DB Electrique,3389110442571,LC1 D80M7,2.0,L4,Contacteur,Schneider,,
+DB Electrique,3389110442823,LC1 D80P7,1.0,L4,Contacteur,Schneider,,
+DB Electrique,3389110440034,LC1 D80B7,4.0,L4,Contacteur,Schneider,,
+DB Electrique,3389110451580,LC1 D95M5,2.0,L4,Contacteur,Schneider,,
+DB Electrique,3389110451634,LC1 D95M7,1.0,L4,Contacteur,Schneider,,
+DB Electrique,3389118095557,LC1 F225P7,1.0,K1,Contacteur,Schneider,,
+DB Electrique,3389119408349,LC1D40AE7,10.0,L5,Contacteur,Schneider,,
+DB Electrique,3389119408646,LC1D50AE7,6.0,L5,Contacteur,Schneider,,
+DB Electrique,3389119408691,LC1D50AM7,2.0,L5,Contacteur,Schneider,,
+DB Electrique,3389119408707,LC1D50AP7,1.0,L5,Contacteur,Schneider,,
+DB Electrique,3389119409018,LC1D65AM7,2.0,L5,Contacteur,Schneider,,
+DB Electrique,3389110348736,LC1D09E7,2.0,L6,Contacteur,Schneider,48AC,
+DB Electrique,3389110348873,LC1D09M7,2.0,L6,Contacteur,Schneider,220,
+DB Electrique,3389110353891,LC1D12ED,7.0,L6,Contacteur,Schneider,48DC,
+DB Electrique,3389110349429,LC1D18E7,3.0,L6,Contacteur,Schneider,,
+DB Electrique,3389110349689,LC1D25E7,4.0,L6,Contacteur,Schneider,,
+DB Electrique,3389110244502,LC1DT20E7,3.0,L6,Contacteur,Schneider,,
+DB Electrique,3389110747072,LC1 F800,1.0,L1,Contacteur,Schneider,,
+DB Electrique,3389110227192,LC1 F6302,1.0,L1,Contacteur,Schneider,,
+DB Electrique,3389110656428,LC1 F150P7,1.0,K5,Contacteur,Schneider,,
+DB Electrique,3606481921970,LC1 G330KUEN,1.0,K4,Contacteur,Schneider,,
+DB Electrique,7320500203286,A145-30-11,3.0,K4,Contacteur,ABB,,
+DB Electrique,7320500203323,A210-30-11,4.0,K4,Contacteur,ABB,,
+DB Electrique,7320500129241,A95-30-00,5.0,K4,Contacteur,ABB,,
+DB Electrique,3471522081803,A50-30-00,4.0,K5,Contacteur,ABB,,
+DB Electrique,3471522087805,A63-30-00,4.0,K5,Contacteur,ABB,,
+DB Electrique,3471522092809,A75-30-00,7.0,K5,Contacteur,ABB,,
+DB Electrique,3471523110038,AF09-30-10-13,5.0,M6,Contacteur,ABB,,
+DB Electrique,3471523110335,AF12-30-10-13,5.0,M6,Contacteur,ABB,,
+DB Electrique,3471523110939,AF26-30-00-13,5.0,M6,Contacteur,ABB,,
+DB Electrique,3471523111233,AF30-30-00-13,5.0,M6,Contacteur,ABB,,
+DB Electrique,3471523111530,AF38-30-00-13,5.0,M6,Contacteur,ABB,,
+DB Electrique,,LC1 D115B7,2.0,L3,Contacteur,Schneider,55kw 400V 24v bobine,
+DB Electrique,1269007000,GMC-9M/4,7.0,M6,Relais auxiliaire ,LS is,,
+DB Electrique,3606480344879,34406,2.0,P1,Disjoncteur,Schneider,Compact NS / NS800N M2.0E 800A 4P4D,
+DB Electrique,,GS2J3,2.0,P2,Interrupteur-Sectionneur,Schneider,,
+DB Electrique,3303430335528,33552,1.0,P2,Disjoncteur,Schneider,Compact NS / NS800N M5.0 800A 3P3D,
+DB Electrique,3303430304036,30403,1.0,P3,Disjoncteur,Merlin Gerin,Compact NS / NS160N 3P BASE,
+DB Electrique,4013614265174,1SAM450000R1005,1.0,P3,Disjoncteur,ABB,,
+DB Electrique,4013614265198,1SAM450000R1007,3.0,P3,Disjoncteur,ABB,,
+DB Electrique,4013614265457,1SAM550000R1007,4.0,P3,Disjoncteur,ABB,,
+DB Electrique,4013614265464,1SAM550000R1008,1.0,P3,Disjoncteur,ABB,,
+DB Electrique,3606480015298,LV432748,3.0,P4,Disjoncteur ,Schneider,Compact NSX400F 320A 3P,
+DB Electrique,3606480015434,LV432775,1.0,P4,Disjoncteur ,Schneider,Compact NSX400F 320A 3P,
+DB Electrique,3606480007002,LV432815,1.0,P4,Disjoncteur ,Schneider,Compact NSX630F 4P sans déclencheur,
+DB Electrique,3606480015465,LV432876,2.0,P4,Disjoncteur ,Schneider,Compact NSX630F 630A 3P,
+DB Electrique,3606480015472,LV432877,2.0,P4,Disjoncteur ,Schneider,Compact NSX630F 630A 4P,
+DB Electrique,23303430245814,24581,12.0,P5,Disjoncteur,Schneider ,Merlin gerin 2P 2A C60N,
+DB Electrique,23303430248525,24852,6.0,P5,Disjoncteur,Merlin Gerin,C60H 2P C 16A,
+DB Electrique,23303430246163,24616,6.0,P5,Disjoncteur ,Schneider ,Merlin gerin 4P D 10A C60N,
+DB Electrique,13606480079556,A9F74210,12.0,P5,Disjoncteur ,Schneider ,Acti9 iC60N 2P 10A,
+DB Electrique,13606480079570,A9F74220,11.0,P5,Disjoncteur ,Schneider ,Acti9 iC60N 2P 20A,
+DB Electrique,3606480387425,A9N21695,2.0,P5,Bloc différentiel,Schneider,Clario vigi i DPN 3P-25A-30mA-AC + disjoncteur acti9 C16,
+DB Electrique,3606480410529,A9N21697,1.0,P5,Bloc différentiel,Schneider,Clario Vigi i DPN 3P-40A-30mA-AC + disjoncteur acti9 C40,
+DB Electrique,3606480411687,A9N21681,2.0,P5,Bloc différentiel ,Schneider ,Clario Vigi i iDPN 1P+N-25A-30mA-AC + disjoncteur acti9 C10,
+DB Electrique,3606481327420,A9Y83625,4.0,P5,Bloc différentiel ,Schneider ,Clario Vigi iC40 1P+N-25A-300mA-AC ,
+DB Electrique,06130055R00004,BKN C10A,4.0,P5,Disjoncteur,LS is,LS 3P C10 ,
+DB Electrique,3303430232032,23203,1.0,P6,Disjoncteur,Merlin Gerin,,
+DB Electrique,,GV3ME14,1.0,P6,Disjoncteur Moteur,Schneider,,
+DB Electrique,3389110346626,GV3ME63,1.0,P6,Disjoncteur Moteur,Schneider,,
+DB Electrique,3389110376166,GV3ME80,3.0,P6,Disjoncteur Moteur,Schneider,,
+DB Electrique,3606480008511,LV429560,1.0,P6,Disjoncteur ,Schneider,Compact NSX100B 4P TM100D,
+DB Electrique,3606480009556,LV429854,2.0,P6,Disjoncteur ,Schneider,Compact NSX100N 4P TM40D,
+DB Electrique,3303430335535,33553,1.0,Q1,Disjoncteur,Schneider,Compact NS / NS800H M5.0 800A 3P3D,
+DB Electrique,3303430335542,33554,3.0,Q1-Q2,Disjoncteur,Schneider,Compact NS / NS800L M5.0 800A 3P3D,
+DB Electrique,3303430334668,33466,2.0,Q3,Disjoncteur,Schneider,Compact NS / NS800N M2.0 3P3D,
+DB Electrique,3606480016349,LV432084,1.0,Q4,Disjoncteur/ Déclencheur ,Schneider,Compact NSX630 Déclencheur micrologic 2.3 630A 4P4D,
+DB Electrique,,C1032M100,2.0,Q4,Disjoncteur/ Déclencheur ,Schneider,Compact NSX100/250 Déclencheur micrologic AC 3P3D 100A 2.2M,
+DB Electrique,8015644654238,T7S 1250,2.0,Q4,Disjoncteur,ABB,SACE TMAX /,
+DB Electrique,3303430281009,28100,1.0,Q7,Disjoncteur,Schneider,Compact NS / ,
+DB Electrique,3606480009372,LV429760,1.0,Q7,Disjoncteur,Schneider,Compact NSX / ,
+DB Electrique,4016779608350,S 202-B10,5.0,Q5,Disjoncteur,ABB,,
+DB Electrique,4016779608435,S 202-B16,5.0,Q5,Disjoncteur,ABB,,
+DB Electrique,8015644013042,XT1C 160,2.0,Q7,Disjoncteur,ABB,SACE TMAX /,
+DB Electrique,8015644013189,XT1N 160,1.0,Q7,Disjoncteur,ABB,SACE TMAX /,
+DB Electrique,8015644019716,XT3 N 250,1.0,Q7,Disjoncteur,ABB,SACE TMAX /,
+DB Electrique,3389110343052,GV2ME06,3.0,Q6,Disjoncteur Moteur,Schneider,"1 - 1,6A",
+DB Electrique,3389110343076,GV2ME07,2.0,Q6,Disjoncteur Moteur,Schneider,"1,6 - 2,5A",
+DB Electrique,3389110343090,GV2ME08,3.0,Q6,Disjoncteur Moteur,Schneider,"2,5 - 4A",
+DB Electrique,3389110343137,GV2ME14,1.0,Q6,Disjoncteur Moteur,Schneider,6 - 10A,
+DB Electrique,,GV3L65,1.0,Q6,Disjoncteur Moteur,Schneider,3p 65A 690v,
+DB Electrique,3303430311058,31105,2.0,Q6,Interrupteur Sectionneur ,Schneider,INS250 4P 160A,
+DB Electrique,3389110213461,GV2P07,4.0,Q6,Disjoncteur Moteur ,Schneider,"1,6 - 2,5A",
+DB Electrique,3606481999375,C16B3,1.0,Q6,Disjoncteur,Schneider,Compact NSX / NSX160B 25kA AC 3P 160A sans déclencheur ,
+DB Electrique,,C10F3,2.0,Q6,Disjoncteur,Schneider,Compact NSX / NSX100F 36kA AC 3P 100A  sans déclencheur ( c1032m100 ),
+DB Electrique,,C25F32D100,2.0,P7,Disjoncteur,Schneider,Compact NSX250F Microligic2.2 100A 3P,
+DB Electrique,,SITRANS P320,10.0,M5-M6,Instrumentation ,SIEMENS,Capteur transmetteur de pression 10Bar,
+DB Electrique,,PMP51B-4501/0,5.0,M5,Instrumentation ,Endress+Hauser,Capteur transmetteur de pression 10Bar bleut,
+DB Electrique,,PMP51B-1EWX6/0,2.0,M4,Instrumentation ,Endress+Hauser,Capteur transmetteur de pression 100Bar bleut,
+DB Electrique,,266HSHPSBA1,1.0,M4,Instrumentation ,ABB,Capteur transmetteur de pression 24Bar,
+DB Electrique,,DRD1R5.99,7.0,M3,Instrumentation ,HACH,Sonde PHmetre,
+DB Electrique,,Liquisys M CPM253,2.0,M2,Instrumentation ,Endress+Hauser,Kit Analyseur de chlore ,
+DB Electrique,,150116,5.0,M2,Instrumentation ,BAMO ,Electrode Redox 9318 R,
+DB Electrique,,,1.0,M3,Instrumentation ,,Lampe Turbidimètre PDR n:3 TR6/7,
+DB Electrique,,09184=A=1001,1.0,M3,Instrumentation ,HACH,Electrode Chlore 9184/9187,
+DB Electrique,,PROMAG 50,1.0,M2,Instrumentation ,Endress+Hauser,Transmetteur Débitmètre DN200,
+DB Electrique,,BAMOSET 912ML,1.0,M2,Instrumentation ,BAMO ,Transmetteur Conductivité ,
+DB Electrique,,BAMOCOR 105M,1.0,M1,Instrumentation ,BAMO ,Afficheur PHmetre ,
+DB Electrique,,9120700.99,3.0,M1,Instrumentation ,HACH,Sonde de conductivité ,
+DB Electrique,,9120800.99,1.0,M1,Instrumentation ,HACH,Sonde de conductivité ,
+DB Electrique,,LA9RM201,5.0,M1,Instrumentation ,Telemecanique,Sonde pour RM4L ( relais de contrôle de niveaux de liquide),
+DB Electrique,,Mag6000,2.0,N5,Instrumentation ,SIEMENS,Transmetteur apparente pour débitmètre DN250,
+DB Electrique,,Mag6000,3.0,N4,Instrumentation ,SIEMENS,Transmetteur encastrable pour débitmètre DN250,
+DB Electrique,,Mag5000,4.0,N5,Instrumentation ,SIEMENS,Transmetteur pour débitmètre ,
+DB Electrique,,Support Mag,3.0,N5,Instrumentation ,SIEMENS,Support pour afficheur des débitmètres Mag1100/3100/5100,
+DB Electrique,,ZM10,1.0,N5,Instrumentation ,ABB,Transmetteur pour débitmètre Tr8,
+DB Electrique,,Mag1100,2.0,N4,Instrumentation ,SIEMENS,Capteur pour débitmètre ,
+DB Electrique,,FMU90,2.0,N4,Instrumentation ,Endress+Hauser,Sonde de niveau ULTRASONS kit complet,
+DB Electrique,,7ML52211BB11,1.0,N4,Instrumentation ,SIEMENS,Sonde de niveau ULTRASONS ,
+DB Electrique,,Sitrans LUT400,2.0,N3,Instrumentation ,SIEMENS,Sonde de niveau ULTRASONS / Transmetteur Afficheur ,
+DB Electrique,,ECHOMAX XPS10,2.0,N3,Instrumentation ,SIEMENS,Sonde de niveau ULTRASONS / Capteur ,
+DB Electrique,,Sitrans LH100,3.0,N3,Instrumentation ,SIEMENS,Transmetteur de niveau Sirtans LH100,
+DB Electrique,,7MF1572-8AD,3.0,N3,Instrumentation ,SIEMENS,Capuchon (PDR Sitrans LH100),
+DB Electrique,,7MF1572-8AE,3.0,N3,Instrumentation ,SIEMENS,Filtre d'humidité (PDR Sitrans LH100),
+DB Electrique,,US 6,2.0,N2,Instrumentation ,PARATRONIC,Capteur de niveau ultrason ,
+DB Electrique,,Z_08311=A=0000,1.0,M1,Instrumentation ,POLYMETRON,Sonde de conductivité  8311,
+DB Electrique,,Sc200,1.0,N1,Instrumentation ,HACH,Transmetteur universel Hach Sc200,
+DB Electrique,,Sc4500,1.0,N1,Instrumentation ,HACH,Transmetteur universel Hach Sc4500,
+DB Electrique,,Bs410,3.0,N1,Instrumentation ,,Sonde de mesure noir en PVC,
+DB Electrique,,TS1PL3A615D-BB-,2.0,N1,Instrumentation ,TERMOTECH,Pt100 avec 3 fils T=-80/+600C deg,
+DB Electrique,,TSP121,1.0,N1,Instrumentation ,ABB,Pt100 avec 4 fils T=0/+100C deg,
+DB Electrique,,TST42,2.0,N1,Instrumentation ,EH,Pt100 avec 3 fils T=0/+100C deg,
+DB Electrique,,TR24,2.0,N1,Instrumentation ,EH,Pt100 avec 2 fils T=0/+100C deg,
+DB Electrique,,BS1284,5.0,N1,Instrumentation ,BAMO,"Sonde de conductivité C=0 R=1/2""",
+DB Electrique,,Modumat 8000,1.0,M1,Instrumentation ,Bailey,C 8002 Cotrol process ( Regulation module ),
+DB Electrique,,26924,10.0,P6,Contact auxiliaire ,Merlin Gerin,3A 415V,
+DB Electrique,,15636,12.0,P6,Sectionneur,Merlin Gerin,1P 500V,
+DB Electrique,,STi-63,1.0,P6,Sectionneur,UFO,3P 690V 63A,
+DB Electrique,,60831-1-2:2014,2.0,H1,Batterie de condensateur,RTR energia,"10 Kvar 13,1A 440V",
+DB Electrique,,A9P52616,4.0,Q7,Disjoncteur,Schneider,Acti9 iC40 C16 2P,
+DB Electrique,,A9P54620,1.0,Q7,Disjoncteur,Schneider,Acti9 iC40N C20 2P,
+DB Electrique,,A9P54610,1.0,Q7,Disjoncteur,Schneider,Acti9 iC40N C10 2P,
+DB Electrique,,A9P52610,5.0,Q7,Disjoncteur,Schneider,Acti9 iC40 C10 2P,
+DB Electrique,,A9F74202,2.0,Q7,Disjoncteur,Schneider,Acti9 iC60N C2 2P,
+DB Electrique,,A9F74440,2.0,Q7,Disjoncteur,Schneider,Acti9 iC60N C40 4P,
+DB Electrique,,A9P54306,2.0,Q7,Disjoncteur,Schneider,Acti9 iC40N C6 3P,
+DB Electrique,,A9P54720,2.0,Q7,Disjoncteur,Schneider,Acti9 iC40N C20 3P+N,
+DB Electrique,,A9P54732,2.0,Q7,Disjoncteur,Schneider,Acti9 iC40N C32 3P+N,
+DB Electrique,,A9P54340,2.0,Q7,Disjoncteur,Schneider,Acti9 iC40N C40 3P,
+DB Electrique,,A9F74204,4.0,Q7,Disjoncteur,Schneider,Acti9 iC60N C4 2P,
+DB Electrique,,A9P54332,2.0,Q7,Disjoncteur,Schneider,Acti9 iC40N C32 3P,
+DB Electrique,,A9F74432,2.0,Q7,Disjoncteur,Schneider,Acti9 iC60N C32 4P,
+DB Electrique,,A9P54740,2.0,Q7,Disjoncteur,Schneider,Acti9 iC40N C40 3P+N,
+DB Electrique,,A9F74206,4.0,Q7,Disjoncteur,Schneider,Acti9 iC60N C6 2P,
+DB Electrique,3389119404631,LTMR08MFM,4.0,Q7,Controleur de gestion de moteurs,Schneider,"TsSys T-940463 0,4-8A Modbus 100-240Vac",
+DB Mécanique,,NU316ECJ,3,M4,Roulement ,SKF,pour TUP 150-360/5,HP TR5
+DB Mécanique,,NU316MC3,1,M4,Roulement ,NSK,pour TUP 150-360/5,HP TR5
+DB Mécanique,,NU316W,2,M4,Roulement ,NSK,pour TUP 150-360/5,HP TR5
+DB Mécanique,,NU314ECJ/C3,2,M4,Roulement ,SKF,,
+DB Mécanique,,NU312EMC3,1,M4,Roulement ,ROLLWAY,,
+DB Mécanique,,NJ312ECP,1,M4,Roulement ,SKF,,
+DB Mécanique,,NU312,1,M4,Roulement ,ZKL,,
+DB Mécanique,,NU312E,1,M4,Roulement ,KFB,,
+DB Mécanique,,NUP311ECJ,3,M4,Roulement ,SKF,,
+DB Mécanique,,NUP311ECP,1,M4,Roulement ,SKF,,
+DB Mécanique,,NUP311EW,2,M4,Roulement ,NSK,,
+DB Mécanique,,NU310ECJ,5,M4,Roulement ,SKF,pour ZF 200-3250,BOOSTER TR8
+DB Mécanique,,NUP310EW,5,M4,Roulement ,NSK,,
+DB Mécanique,,NUP309ECJ,4,M4,Roulement ,SKF,pour A21-100,LAVAGE TR5/8
+DB Mécanique,,NUP309ECJ/C3,1,M4,Roulement ,SKF,pour A21-100,LAVAGE TR5/8
+DB Mécanique,,309,1,M4,Roulement ,NSK,,
+DB Mécanique,,NU308ECJ,2,M4,Roulement ,SKF,pour ZF-150-2200,BOOSTER TR6/7
+DB Mécanique,,NU308ECJ/C3,5,M4,Roulement ,SKF,pour ZF-150-2200,BOOSTER TR6/7
+DB Mécanique,,NUP307ECJ,4,M4,Roulement ,SKF,,
+DB Mécanique,,NU216W,3,M4,Roulement ,NSK,pour MCPK 250-200-400 CC/N,ET2 VERS CARREFOUR
+DB Mécanique,,NUP210ECP,2,N4,Roulement ,SKF,,
+DB Mécanique,,NU413-XL-M1/C3,2,N4,Roulement ,FAG,pour KPD250-50,CARREFOUR SR2 N1
+DB Mécanique,,3207A/C3,4,N4,Roulement ,SKF,,
+DB Mécanique,,31308J2/QCL7C,1,N4,Roulement ,SKF,pour ZF-150-2200,BOOSTER TR6/7
+DB Mécanique,,31308/CL7CDF,7,N4,Roulement ,SKF,pour ZF-150-2200,BOOSTER TR6/7
+DB Mécanique,,31310J2/QCL7CDF,5,N4,Roulement ,SKF,pour ZF-200-3250,BOOSTER TR8
+DB Mécanique,,31314J2/QCL7ADF,2,N4,Roulement ,SKF,pour TUP 150-360/5,HP TR5
+DB Mécanique,,6203,2,M3,Roulement ,SKF,,
+DB Mécanique,,6205,2,M3,Roulement ,SKF,,
+DB Mécanique,,6208,1,M3,Roulement ,SNR,,
+DB Mécanique,,6206ZZC3,4,M3,Roulement ,NSK,,
+DB Mécanique,,6208ZZC3,0,M3,Roulement ,NSK,pour MOVITEC V18-5,EAU DE SERVICE TR6/7
+DB Mécanique,,6207.2ZR,2,M3,Roulement ,FAG,,
+DB Mécanique,,6207/C3,6,M3,Roulement ,SKF,,
+DB Mécanique,,6209.C3,1,M3,Roulement ,FAG,pour A21-100,MOTEUR LAVAGE TR5/8 
+DB Mécanique,,6209-2Z/C3,1,M3,Roulement ,SKF,pour A21-100,MOTEUR LAVAGE TR5/8
+DB Mécanique,,6210DDU,1,M3,Roulement ,NSK,pour A21-100,MOTEUR LAVAGE TR5/8
+DB Mécanique,,6210-2Z,1,M3,Roulement ,SKF,pour A21-100,MOTEUR LAVAGE TR5/8
+DB Mécanique,,6210ZZS3E,1,M3,Roulement ,NSK,pour A21-100,MOTEUR LAVAGE TR5/8
+DB Mécanique,,6211-2Z,1,M3,Roulement ,ZKL,,
+DB Mécanique,,6211.2RSR,1,M3,Roulement ,FAG,,
+DB Mécanique,,6211-2Z/C3,4,M3,Roulement ,SKF,,
+DB Mécanique,,6212.2ZR.C3,3,M3,Roulement ,FAG,pour ZF200-3250 et ZF150-2200,MOTEUR BOOTER TR6/7/8 
+DB Mécanique,,6213ZZC3,4,M3,Roulement ,NSK,pour A33-125,MOTEUR ET VERS MARSA
+DB Mécanique,,6213-2Z/C3,8,M3,Roulement ,SKF,pour A33-125,MOTEUR ET VERS MARSA
+DB Mécanique,,6214/C3,1,N3,Roulement ,SKF,pour SCT 200/58,CARREFOUR SR1 N3
+DB Mécanique,,6215 2RS,1,N3,Roulement ,ACE,,
+DB Mécanique,,6216/C3,2,N3,Roulement ,SKF,pour VENUS 1-250-650C,CARREFOUR SR1 N2
+DB Mécanique,,6216,4,N3,Roulement ,SKF,pour VENUS 1-250-650C,CARREFOUR SR1 N2
+DB Mécanique,,6218C3E,7,N3,Roulement ,NSK,pour SCT 250/51,CARREFOUR SR1 N1
+DB Mécanique,,6220/C3VL0241,1,N3,Roulement ,SKF,Pour FHVL-500-2 - moteur FELM,Moteur Tr6 normal (2023) NDE  ( non drive end) coté vent.
+DB Mécanique,,6220/C3,2,N3,Roulement ,SKF,Pour FHVL-500-2 moteur FELM,Moteur Tr6 normal (2023) DE ( drive end) coté pp.
+DB Mécanique,,6413C3,2,M2,Roulement ,NSK,pour ETN RM 250 500,CARREFOUR SR2 N2
+DB Mécanique,,6017,2,M2,Roulement ,SKF,,
+DB Mécanique,,51214,2,M2,Roulement ,SKF,,
+DB Mécanique,,7209BECBP,2,M2,Roulement ,SKF,,
+DB Mécanique,,7214BECBM,2,M2,Roulement ,SKF,,
+DB Mécanique,, 7216BECBM,6,M2,Roulement ,SKF,,
+DB Mécanique,,7308BG,8,M2,Roulement ,NSK,,
+DB Mécanique,,7309BEP,5,M2,Roulement ,SKF,,
+DB Mécanique,,7309BECBP,11,M2,Roulement ,SKF,,
+DB Mécanique,,7309BECBM,6,M2,Roulement ,SKF,,
+DB Mécanique,,7310BG,6,N2,Roulement ,NSK,pour A21-100,LAVAGE TR5/8
+DB Mécanique,,7310BECBM,4,N2,Roulement ,SKF,pour A21-100,LAVAGE TR5/8
+DB Mécanique,,7312BECBM,4,N2,Roulement ,SKF,pour A31-125\150 et A33-125,BP TR5/6/7/8 et LAVAGE TR6/7 et ET VERS MARSA
+DB Mécanique,,7314BG,2,N2,Roulement ,NSK,pour MBN100-300/04 et 05,HP TR6/7/8 Pp
+DB Mécanique,,7314BECBM,10,N2,Roulement ,SKF,pour MBN100-300/04 et 05,HP TR6/7/8 Pp
+DB Mécanique,,7315BECBP,4,N2,Roulement ,SKF,pour KPD 250-50,CARREFOUR SR2 N1
+DB Mécanique,,7319BECBP,2,N2,Roulement ,SKF ,pour CPKN-C1 250-500,CIP TR5/8
+DB Mécanique,,202,2,M1,Roulement ,SKF,,
+DB Mécanique,,NU203E,1,M1,Roulement ,SNR,,
+DB Mécanique,,6304,1,M1,Roulement ,NTN,,
+DB Mécanique,,6305,1,M1,Roulement ,NTN,,
+DB Mécanique,,6305.2ZR.C3,2,M1,Roulement ,FAG,,
+DB Mécanique,,6306-2Z/C3,1,M1,Roulement ,SKF ,pour MOVITEC V18-5,EAU DE SERVICE TR6/7
+DB Mécanique,,6307-2Z,8,M1,Roulement ,SKF,,
+DB Mécanique,,6308-2Z,4,M1,Roulement ,SKF,,
+DB Mécanique,,6308-2ZR.C3,3,M1,Roulement ,FAG,,
+DB Mécanique,,6310.2ZR.C3,2,M1,Roulement ,FAG,pour A31-150,MOTEUR LAVAGE TR6/7
+DB Mécanique,,6311-2Z,2,M1,Roulement ,SKF,,
+DB Mécanique,,6312C3E,4,M1,Roulement ,NSK,pour A31-150,MOTEUR LAVAGE TR6/7
+DB Mécanique,,6313C3E,4,M1,Roulement ,NSK ,pour ZF200-3250 et ZF150-2200,MOTEUR BOOSTER TR6/7/8
+DB Mécanique,,6313.ZZ.J30,4,M1,Roulement ,SNR,pour ZF200-3250 et ZF150-2200,MOTEUR BOOSTER TR6/7/8
+DB Mécanique,,6315/C3,2,M1,Roulement ,SKF ,pour A33-125,MOTEUR ET VERS MARSA
+DB Mécanique,,6316C3E,6,M1,Roulement ,NSK,pour MCPK 250-200-400 CC/N,ET VERS CARREFOUR
+DB Mécanique,,6316M/C3VL0241,6,M1,Roulement ,SKF,pour INSOCOAT pour A31-125,MOTEUR BP TR5/6/7/8
+DB Mécanique,,6317/C4,2,N1,Roulement ,SKF ,pour TUP 150-360/5,MOTEUR HP TR5
+DB Mécanique,,6317/C3,2,N1,Roulement ,SKF,pour TUP 150-360/5,MOTEUR HP TR5
+DB Mécanique,,6317-C3,1,N1,Roulement ,FAG,pour TUP 150-360/5,MOTEUR HP TR5
+DB Mécanique,,6317,1,N1,Roulement ,FAG,pour TUP 150-360/5,MOTEUR HP TR5
+DB Mécanique,,6317M/C3,2,N1,Roulement ,SKF,pour TUP 150-360/5,MOTEUR HP TR5
+DB Mécanique,,6319/C3,5,N1,Roulement ,SKF,pour Moteur MBN100-300/04 et 05 ABB,MOTEUR HP TR6/7/8 
+DB Mécanique,,6319-M-J20AA C3,0,N1,Roulement ,FAG,pour Moteur MBN100-300/04 et 05 ABB,MOTEUR HP TR6/7/8
+DB Mécanique,,6322C3E,8,N1,Roulement ,NSK ,pour NUS 1-250-650C et SCT 200/58 et SCT250/51,MOTEUR CARREFOUR SR1 N1/2/3
+DB Mécanique,,6322/C3,16,N1,Roulement ,SKF,pour NUS 1-250-650C et SCT 200/58 et SCT250/51,MOTEUR CARREFOUR SR1 N1/2/3
+DB Mécanique,,3310B.TVH.C3,2,M1,Roulement ,FAG,,
+DB Mécanique,,H313,2,M1,Roulement ,FAG ,,
+DB Mécanique,,H313,4,M1,Roulement ,ACE,,
+DB Mécanique,,3309/C3,1,M1,Roulement ,SKF,,
+DB Mécanique,,22213CAKC3W33,1,M1,Roulement ,UBC,,
+DB Mécanique,,31314J2/QCL7ADF,1,M1,Roulement ,SKF,pour 150-360/5,HP TR5
+DB Mécanique,,JS1,18,F4/G4/H4,Joint spiralé,,Dn15 pn 64/160,
+DB Mécanique,,JS2,2,F4/G4/H4,Joint spiralé,,Dn32 pn 10,
+DB Mécanique,,JS3,3,F4/G4/H4,Joint spiralé,,Dn200 pn64,
+DB Mécanique,,JS4,6,F4/G4/H4,Joint spiralé,,Dn125 pn160,
+DB Mécanique,,JS5,4,F4/G4/H4,Joint spiralé,,Dn100 pn64,
+DB Mécanique,,JS6,7,F4/G4/H4,Joint spiralé,,Dn150 pn160,
+DB Mécanique,,JS7,38,F4/G4/H4,Joint spiralé,,Dn200 pn100/160,
+DB Mécanique,,JS8,26,F4/G4/H4,Joint spiralé,,Dn100 pn100,
+DB Mécanique,,JS9,19,F4/G4/H4,Joint spiralé,,Dn250 pn100,
+DB Mécanique,,JS10,20,F4/G4/H4,Joint spiralé,,Dn150 pn100,
+DB Mécanique,,JS11,5,F4/G4/H4,Joint spiralé,,Bpg 10-600 316L B16.20,
+DB Mécanique,,JS12,10,F4/G4/H4,Joint spiralé,,Dn200 pn40,
+DB Mécanique,,JS13,1,F4/G4/H4,Joint spiralé,,"8.16.20 8"" 900",
+DB Mécanique,,JS14,1,F4/G4/H4,Joint spiralé,,6 600 316L FG CRS OR ASME B16.20,
+DB Mécanique,,JS15,1,F4/G4/H4,Joint spiralé,,"3"" 150  316 F.G ASME B16.20",
+DB Mécanique,,TM02094CPFBT000,5,J0,Pompe doseuse,INJECTA,P 10bar Q 40l/h V380,
+DB Mécanique,,TM04108CPFCT000,4,J1,Pompe doseuse,INJECTA,P 10bar Q 120l/h V380,
+DB Mécanique,,TM02064CPFAT000,1,J2,Pompe doseuse,INJECTA,P 10bar Q 11l/h V380,
+DB Mécanique,,TM02064CPFATH0,1,J2,Pompe doseuse,INJECTA,P16bar Q 11l/h V380,
+DB Mécanique,,GM120D40N3,1,J2,Pompe doseuse,MILTON ROY,P 7bar Q 120l/h V380,
+DB Mécanique,,MAGDOS LP2,4,J3,Pompe doseuse,Lutz-Jesco,"Q 1,9-2,3l/h P 16-8bar V220",
+DB Mécanique,,GN50D4T3,6,J3/i3,Pompe doseuse,MILTON ROY,P 10bar Q 50l/h,
+DB Mécanique,,CR1-15 A-FGJ-A-E-HQQE,2,I0,Pompe doseuse,GRUNDFOS,"P 16bar Q 1,8m/h Axe V",
+DB Mécanique,,Amaporter F503 SE,5,I0,Pompe vide-cave ,KSB,"Q 0,3-8l/s H4-16m V 220v",
+DB Mécanique,,S1BAH12035PVTS000S000,1,I1,Pompe doseuse,ProMinent ,Q 35-42l/h P 10bar,
+DB Mécanique,,PP/E/C-X-31|001FG,0,I2,Pompe doseuse,GRUNDFOS,Q 6l/h P 10bar,
+DB Mécanique,,GA45D4T3,3,I2,Pompe doseuse,MILTON ROY,Q 50l/h 10bar,
+DB Mécanique,,500.0023,1,I4,Pompe vide-fût,Wechselstrommotor,400-230V 850W,
+DB Mécanique,,BN 05-12,2,I0,Pompe chaux,Seepex,BN 05-12,
+DB Mécanique,,MBN 100-300/4,1,,Pompe ,Sulzer ,MBN 100-300/4,HP TR8
+DB Mécanique,,SES_250-500/503,1,,Pompe ,Sulzer ,DN600,CARREFOUR
+DB Mécanique,,MCPK125-080-200,1,,Pompe ,KSB,126m3/h 50m,
+DB Mécanique,,ETCB 050-025-250,1,,Pompe ,KSB,"1,48m3/h 15m",TARFAYA
+DB Mécanique,,ETCB 050-032-200 CC,1,,Pompe ,KSB,"10,8m3/h 50m",TARFAYA
+DB Mécanique,,ETCB 065-050-200,1,,Pompe ,KSB,36m3/h 50m,AKHFNIR
+DB Mécanique,,CR15-6 A-F-A-E-HQQE,2,,Pompe ,GRUNDFOS,P 16bar Q 17m3/h axe V,
+DB Mécanique,,89610646,3,S4,Garniture mécanique,JohnCrane,Bp Tr6/7,
+DB Mécanique,,90277193,3,S4,Garniture mécanique,JohnCrane,Lavage Tr6/7,
+DB Mécanique,,91139496,4,S4,Garniture mécanique,JohnCrane,Hp Tr6/7/8,
+DB Mécanique,,89395801,1,S4,Garniture mécanique,JohnCrane,Hp Tr6/7/8,
+DB Mécanique,,90388758,1,S4,Garniture mécanique,JohnCrane,Hp Tr5,
+DB Mécanique,,89079311,2,T4,Garniture mécanique,JohnCrane,Bp Tr5/6/7/8,CARREFOUR SR2 N2
+DB Mécanique,,90277132,4,,Garniture mécanique,JohnCrane,Lavage Tr5/8,
+DB Mécanique,,89576315,0,U4,Garniture mécanique ,JohnCrane,MBN 100-300/04 et 05,HP TR6/7/8
+DB Mécanique,,91149503,0,U4,Garniture mécanique ,JohnCrane,pour ZF-150-2200,BOOSTER TR6/7
+DB Mécanique,,91149499,2,V4,Garniture mécanique ,JohnCrane,pour ZF-200-3250,BOOSTER TR8
+DB Mécanique,,1037796,4,V4,Garniture mécanique ,KSB,CPKN-C1 250-500,CIP TR5/8
+DB Mécanique,,MCPK 250-500-400,1,V4,Garniture mécanique ,,MCPK 250-500-400,ET TR5/8
+DB Mécanique,,1044702,2,V4,Garniture mécanique ,,ETB MN 150-315/3704,ET VERS MARSA ANCIENNE G
+DB Mécanique,,1028547,4,V4,Garniture mécanique ,KSB,MCPK 250-200-400 CC/N,ET VERS CARREFOUR
+DB Mécanique,,89163152,0,V4,Garniture mécanique ,JohnCrane,pour 32-160H,BOOSTER AKHFNIR
+DB Mécanique,,1000163167,2,,Garniture mécanique ,EagleBurgmann,Carrefour SCT250/51,CARREFOUR SR1 N1
+DB Mécanique,,Ar1,4,,Arbre ,Sulzer,A31-125 et 150,BP TR6/7/8 tr5
+DB Mécanique,,Ar2,1,,Arbre ,Sulzer,A21-100,LAVAGE TR5/8
+DB Mécanique,,Ar3,1,,Arbre ,KSB,ETANORM NC065-200 C11,ET VERS MARSA
+DB Mécanique,,Ar4,1,,Arbre ,KSB,CIP ,CIP 
+DB Mécanique,,Ar5,1,,Arbre ,KSB,MCPK 250-200-400,ET VERS CARREFOUR
+DB Mécanique,,Ar6,3,,Arbre ,Sulzer,ZF200-3250,BOOSTER TR8
+DB Mécanique,,Ar7,0,,Arbre ,Sulzer,MBN 100-300/05,HP TR6/7
+DB Mécanique,,Ar8,1,,Arbre ,KSB,,
+DB Mécanique,,Ar9,3,,Arbre ,Someflu,125-80-250,CIP TR6/7
+DB Mécanique,,Ar11,0,,Arbre ,Sulzer,ZF150-2200,BOOSTER TR6/7
+DB Mécanique,,Ar12,1,,Arbre ,KSB,ETANORM RM250-500 ,CARREFOUR SR2 N2
+DB Mécanique,,Ar13,2,,Arbre ,KSB,ETB MN 150-315/3704,ET VERS MARSA ANCIENNE G
+DB Mécanique,,Ar14,1,,Arbre ,Sulzer ,KIRLOSKAR,Carrefour 
+DB Mécanique,,Acc1/kit,2,,Accouplement ,Sulzer,MBN 100-300/04 et 05,HP TR6/7/8
+DB Mécanique,,Acc2/kit,3,,Accouplement ,Sulzer,MCPK 250-200-400,ET VERS CARREFOUR AS
+DB Mécanique,,Acc3/kit,0,,Accouplement ,Sulzer,ZF150-2200,BOOSTER TR6/7
+DB Mécanique,,Acc4/kit,1,,Accouplement ,Sulzer,125-80-250,CIP TR6/7
+DB Mécanique,,Acc5/kit,2,,Accouplement ,Sulzer,ZF200-3250,BOOSTER TR8
+DB Mécanique,,Acc6/kit,0,,Accouplement ,Sulzer,32-160H,BOOSTER AKHFNIR
+DB Mécanique,,Acc7/kit,1,,Accouplement ,Sulzer,ETACHROM NC 065-200 C11,ET VERS MARSA  
+DB Mécanique,,Acc8/Spacer,1,,Accouplement ,Sulzer,A31-150,LAVAGE TR6/7 et BP TR8
+DB Mécanique,,Acc8/MonchonP,1,,Accouplement ,Sulzer,A31-150,LAVAGE TR6/7 et BP TR8
+DB Mécanique,,Acc8/MonchonM,1,,Accouplement ,Sulzer,A31-150,LAVAGE TR6/7 et BP TR8
+DB Mécanique,,Acc9/Spacer,2,,Accouplement ,Sulzer,A31-125,BP TR6/7
+DB Mécanique,,Acc9/MonchonP,4,,Accouplement ,Sulzer,A31-125,BP TR6/7
+DB Mécanique,,Acc9/MonchonM,4,,Accouplement ,Sulzer,A31-125,BP TR6/7
+DB Mécanique,,Acc10/Spacer,2,,Accouplement ,Sulzer,Pour A31-125,BP TR5
+DB Mécanique,,Acc10/MonchonP,2,,Accouplement ,Sulzer,Pour A31-125,BP TR5
+DB Mécanique,,Acc10/MonchonM,2,,Accouplement ,Sulzer,Pour A31-125,BP TR5
+DB Mécanique,,Acc11/kit,0,,Accouplement ,Sulzer,Pour A21-80,LAVAGE AKHFNIR 
+DB Mécanique,,Acc12/Spacer,0,,Accouplement ,Sulzer,Pour MBN25-180/12,HP AKHFNIR
+DB Mécanique,,Acc12/MonchonP,0,,Accouplement ,Sulzer,Pour MBN25-180/12,HP AKHFNIR
+DB Mécanique,,Acc12/MonchonM,0,,Accouplement ,Sulzer,Pour MBN25-180/12,HP AKHFNIR
+DB Mécanique,,Acc13/kit,0,,Accouplement ,Sulzer,Pour A11-40,BP AKHFNIR
+DB Mécanique,,Acc14/kit,1,,Accouplement ,Sulzer,A21-100,LAVAGE TR5/8
+DB Mécanique,,Acc14/MonchonP,1,,Accouplement ,Sulzer,A21-100,LAVAGE TR5/8
+DB Mécanique,,Acc14/MonchonM,2,,Accouplement ,Sulzer,A21-100,LAVAGE TR5/8
+DB Mécanique,,Acc15/Spacer,1,,Accouplement ,Sulzer,A31-150,LAVAGE TR6/7 et BP TR8
+DB Mécanique,,Acc15/MonchonP,0,,Accouplement ,Sulzer,A31-150,LAVAGE TR6/7 et BP TR8
+DB Mécanique,,Acc15/MonchonM,1,,Accouplement ,Sulzer,A31-150,LAVAGE TR6/7 et BP TR8
+DB Mécanique,,Lab1,2x2,,Labyrinthe ,AESSEAL,ZF200-3250,BOOSTER TR8
+DB Mécanique,,924601S133,2,,Piston,Sulzer ,MBN 100-300/04 et 05,HP TR6/7/8
+DB Mécanique,,VA4AUP0201,0,,Kit palier ,Sulzer ,A21-100,LAVAGE TR5/8
+DB Mécanique,,9162080141-0,1,,Roue,Sulzer ,R1 pour A31-150,LAVAGE TR6/7
+DB Mécanique,,9161960141-0,2,,Roue,Sulzer ,R2 Pour A31-125,BP TR5
+DB Mécanique,,9173300141-0,1,,Roue,Sulzer ,R3 pour A21-100,LAVAGE TR5/8
+DB Mécanique,,LB-PC-1100/2100,1,,Roue,Sulzer ,R4 pour ZF200-3250,BOOSTER TR8
+DB Mécanique,,LB-PC-1100/2100/3100,1,,Roue,Sulzer ,R5 pour ZF150-2200,BOOSTER TR6/7
+DB Mécanique,,9190360141-1,2,,Roue,Sulzer ,R6 pour MBN 100-300/05 ,HP TR6/7
+DB Mécanique,,47042208,1,,Roue,KSB,R7 pour ,ET TR6/7
+DB Mécanique,,Mano6,45,,Manomètre ,Wika,6 bar,
+DB Mécanique,,Mano10,18,,Manomètre ,Wika,10 bar,
+DB Mécanique,,Mano16,1,,Manomètre ,Wika,16 bar,
+DB Mécanique,,Mano1,7,,Manomètre ,Wika,1 bar,
+DB Mécanique,,Mano100,1,,Manomètre ,Wika,100 bar,
+DB Mécanique,,Pres2.5,3,,Pressostat ,NUOVA FIMA,"2,5 bar",
+DB Mécanique,,Pres1,2,,Pressostat ,NUOVA FIMA,1 bar,
+DB Mécanique,,Pres6,1,,Pressostat ,NUOVA FIMA,6 bar,
+DB Mécanique,,Pres16,2,,Pressostat ,NUOVA FIMA,16 bar,
+DB Mécanique,,PROMAG 50W3H,1,,Débitmètre,E+H,Dn300 Pn10 ,
+DB Mécanique,,PROMAG 50W2F,1,,Débitmètre,E+H,Dn250 Pn10 ,
+DB Mécanique,,SITRANS MAG5100W,2,,Débitmètre,SIEMENS,Dn250 Pn16,
+DB Mécanique,,PROMAG 50W2H,2,,Débitmètre,E+H,Dn200 Pn10 ,
+DB Mécanique,,ISOMAG ML210-B0A1B1A0,1,,Débitmètre, ISOIL,,
+DB Mécanique,,SITRANS MAG3100,1,,Débitmètre,SIEMENS,Dn65 Pn100 ,
+DB Mécanique,,SITRANS MAG5100W,3,,Débitmètre,SIEMENS,Dn150 Pn16 ,
+DB Mécanique,,SITRANS MAG5100W,1,,Débitmètre,SIEMENS,Dn80 Pn16,
+DB Mécanique,,SITRANS F M MAG 5100W,1,,Débitmètre,SIEMENS,Dn200 Pn16,
+DB Mécanique,,PROMAG 50W80,1,,Débitmètre,E+H,Dn80 Pn16 ,
+DB Mécanique,,ISOMAG ML210-B9B1B1A0,1,,Débitmètre, ISOIL,,
