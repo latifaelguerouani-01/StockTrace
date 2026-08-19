@@ -12,8 +12,8 @@ import java.util.Date;
 
 @Component
 public class JwtUtils {
-    @Value("${stocktrace.jwt.secret}")
-    private String jwtSecret;
+    @Value("${stocktrace.jwt.secret:default_secret_key_must_be_at_least_256_bits_long}")
+private String jwtSecret;
 
     @Value("${stocktrace.jwt.expiration:86400000}")
     private long jwtExpirationMs;
